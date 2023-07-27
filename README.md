@@ -2,15 +2,11 @@
 
 Software, experiments, and documentation for the paper ["Observability of Hypergraphs"](https://arxiv.org/abs/2304.04883) *Accepted to IEEE CDC 2023*
 
-Authors:
-- Joshua Pickard (jpic@umich.edu)
-- Amit Surana
-- Anthony Bloch
-- Indika Rajapakse
+Authors: Joshua Pickard (jpic@umich.edu), [Amit Surana](https://sites.google.com/site/amitsur99/home?authuser=0), [Anthony Bloch](https://dept.math.lsa.umich.edu/~abloch/), [Indika Rajapakse](https://rajapakse.lab.medicine.umich.edu/home)
 
-Required Software
+Software Dependencies:
 - Matlab 2023b
-- Hypergraph Analysis Toolbox (HAT)
+- [Hypergraph Analysis Toolbox (HAT)](https://hypergraph-analysis-toolbox.readthedocs.io/en/latest/)
 - Kronecker Toolbox
 
 Missing references:
