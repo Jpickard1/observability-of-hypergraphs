@@ -1,4 +1,4 @@
-#[Observability of Hypergraphs](https://arxiv.org/abs/2304.04883)
+# [Observability of Hypergraphs](https://arxiv.org/abs/2304.04883)
 
 Software, experiments, and documentation for the paper ["Observability of Hypergraphs"](https://arxiv.org/abs/2304.04883) *Accepted to IEEE CDC 2023*
 
