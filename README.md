@@ -7,7 +7,6 @@ Authors: Joshua Pickard (jpic@umich.edu), [Amit Surana](https://sites.google.com
 Software Dependencies:
 - Matlab 2023b
 - [Hypergraph Analysis Toolbox (HAT)](https://hypergraph-analysis-toolbox.readthedocs.io/en/latest/)
-- Kronecker Toolbox
 
 Missing references:
 ```
