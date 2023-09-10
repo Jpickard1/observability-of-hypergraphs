@@ -5,7 +5,7 @@ Software, experiments, and documentation for the paper ["Observability of Hyperg
 Authors: Joshua Pickard (jpic@umich.edu), [Amit Surana](https://sites.google.com/site/amitsur99/home?authuser=0), [Anthony Bloch](https://dept.math.lsa.umich.edu/~abloch/), [Indika Rajapakse](https://rajapakse.lab.medicine.umich.edu/home)
 
 Software Dependencies:
-- Matlab 2023b
+- [Matlab](https://www.mathworks.com/products/matlab.html)
 - [Hypergraph Analysis Toolbox (HAT)](https://hypergraph-analysis-toolbox.readthedocs.io/en/latest/)
 
 Missing references:
