@@ -18,7 +18,7 @@ addpath(genpath('/nfs/turbo/umms-indikar/Joshua/tensor_toolbox/'));
 % Set of possible parameters
 N=3:8;
 colNames = cell(length(N), 1);
-for i=1:length(N);
+for i=1:length(N)
     colNames{i} = char(string(N(i)));
 end
 K=2:7;

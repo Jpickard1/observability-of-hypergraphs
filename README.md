@@ -18,3 +18,8 @@ Missing references:
   1. On global and local observability of nonlinear polynomial systems: A decidable criterion
   2. Analysis and application of neuronal network controllability and observability
 ```
+%%
+
+x = sym('x',[2 2])
+rank(x)
+
