@@ -8,9 +8,4 @@ Software Dependencies:
 - [Matlab](https://www.mathworks.com/products/matlab.html)
 - [Hypergraph Analysis Toolbox (HAT)](https://hypergraph-analysis-toolbox.readthedocs.io/en/latest/)
 
-Missing references:
-```
-  1. On global and local observability of nonlinear polynomial systems: A decidable criterion
-  2. Analysis and application of neuronal network controllability and observability
-```
 
