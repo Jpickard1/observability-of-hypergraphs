@@ -15,10 +15,12 @@ The mouse endomicroscpy dataset used to construct figure 3 can be found in `data
 ## Cite As:
 
 ```
-@article{pickard2023observability,
-  title={Observability of Hypergraphs},
+@inproceedings{pickard2023observability,
+  title={Observability of hypergraphs},
   author={Pickard, Joshua and Surana, Amit and Bloch, Anthony and Rajapakse, Indika},
-  journal={arXiv preprint arXiv:2304.04883},
-  year={2023}
+  booktitle={2023 62nd IEEE Conference on Decision and Control (CDC)},
+  pages={2445--2451},
+  year={2023},
+  organization={IEEE}
 }
 ```
